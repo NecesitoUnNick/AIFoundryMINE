@@ -173,10 +173,10 @@ GET /api/Clasificador?Queja=No puedo ingresar a la app, se cierra sola
 
 ## 🧑‍💻 Autor
 
-Carlos Francisco Silva Ortiz
-Docente Maestría en Inteligencia de Negocios
-Universidad Externado de Colombia
-Materia: Seminario Electivo - Herramientas para Automatización BI  
+Carlos Francisco Silva Ortiz <br>
+Docente Maestría en Inteligencia de Negocios <br>
+Universidad Externado de Colombia <br>
+Materia: Seminario Electivo - Herramientas para Automatización BI <br>
 Chief Data & AI Officer @ Skandia LATAM  
 [LinkedIn](https://www.linkedin.com/in/csilvao/)
 
